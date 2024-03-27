@@ -3,7 +3,7 @@
 
 Gist about me
 
-- 🔭 I’m currently working as a Senior Data Scientist at Wipro.
+- 🔭 I’m currently working as a Lead MLOps Engineer at Wipro.
 - 🌱 I’m currently based out of Bangalore.
 - 🌱 I read tech/AI articles in my free times.
 
