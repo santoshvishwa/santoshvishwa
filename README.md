@@ -10,5 +10,5 @@
 - 📚 I enjoy reading **AI/tech articles**, exploring emerging trends, and mentoring upcoming talent
 - 🛠️ Focused on building **production-grade AI/GenAI systems**, **end-to-end MLOps pipelines**, and delivering **real-world impact through intelligent solutions**
 
-<!-- ### 🔗 Connect with me -->
-<!-- [LinkedIn](https://www.linkedin.com/in/santoshvishwa1/) -->
+### 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/santoshvishwa1/)
